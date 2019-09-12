@@ -21,4 +21,4 @@ EB_WEALTH_CLIENTELE_PORTAL.exe is coded in C++, with user interface designed in 
 and database functions done with SQL.
 It is BridgeLakers' prototype submission for 
 UBS Group Chief Operating Officer (GCOO) Case Challenge 2018.
-Contact Jeremy at zlian001<space>@<space>e.<space>ntu.<space>edu.<space>sg for full source code. Remove the <space>-es.
+Contact Jeremy at zlian001[space]@[space]e.[space]ntu.[space]edu.[space]sg for full source code. Remove the [space]-es.
